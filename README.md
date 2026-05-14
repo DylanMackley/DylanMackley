@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Dylan 👋
 
-<!--
-**DylanMackley/DylanMackley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software engineering with a focus on Trust & Safety.
+Currently building bot detection systems and abuse detection tools.
 
-Here are some ideas to get you started:
+## What I'm building
+- Bot Detection SQS System
+- T&S Career Roadmap Dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Python
+- React
+- SQL
+- AWS SQS
+
+## Goal
+Trust & Safety Engineer role — building the skills one project at a time.
